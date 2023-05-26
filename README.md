@@ -9,9 +9,29 @@ Front End Software Engineer focused on Javascript and User Experience.  Interest
 
 ## Work Experience
 
+### Software Engineer - [Patreon](https://patreon.com/)
+
+__Oct 2020 – Present__
+
+- **Technology summary:** React, Styled Components, NextJs, Tokens Studio, Style Dictionary, Internationalization, Strapi
+
+### Senior Developer - [Brigade (now Council)](https://www.council.inc/)
+
+__Jul 2019 – Sep 2020__
+
+- **Clients include:** Spotify, Strange Brew Strategies
+- **Technology summary:** Next.js, Styled Components, GraphQL, Contentful
+
+### Development Partner - [Smith Process](https://smithprocess.com/)
+
+__May 2019 – Dec 2019__
+
+- **Clients include:** MacFadden and Thorpe
+- **Technology summary:** Next.js, GraphQL
+
 ### Developer – [Turn](https://turnwith.us)
 
-__February 2018 – present__
+__February 2018 – March 2019__
 
 - Developed websites for integration with Sitecore and other CMS
 - Refined development tools for component based websites
