@@ -19,7 +19,7 @@ __Oct 2020 – Present__
 
 __Jul 2019 – Sep 2020__
 
-- **Clients include:** Spotify, Strange Brew Strategies
+- **Clients include:** Spotify, Tezos, Strange Brew Strategies
 - **Technology summary:** Next.js, Styled Components, GraphQL, Contentful
 
 ### Development Partner - [Smith Process](https://smithprocess.com/)
