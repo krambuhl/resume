@@ -24,10 +24,12 @@ __Jul 2019 – Sep 2020__
 
 ### Development Partner - [Smith Process](https://smithprocess.com/)
 
-__May 2019 – Dec 2019__
+__Jan 2019 – Dec 2019__
 
-- **Clients include:** MacFadden and Thorpe
-- **Technology summary:** Next.js, GraphQL
+- Developed web applications using React, GraphQL, and Next.js
+- Integrate with Wordpress API and various REST endpoints
+- **Clients include:** Macfadden & Thorpe, Munson Furniture
+- **Technology summary:** Next.js, GraphQL, Now, Wordpress API
 
 ### Developer – [Turn](https://turnwith.us)
 
@@ -37,17 +39,6 @@ __February 2018 – March 2019__
 - Refined development tools for component based websites
 - **Clients include:** Intuit, MindClick, PsychSelect
 - **Technology summary:** Fractal, Handlebars, CFM templates (Cold Fusion), Bootstrap
-
-
-### Developer – [Blue Jack Studio](https://bluejackstudio.com/)
-
-__January 2018 – present__
-
-- Developed web applications using React, GraphQL, and Next.js
-- Integrate with Wordpress API and various REST endpoints
-- **Clients include:** Macfadden & Thorpe, Munson Furniture
-- **Technology summary:** Next.js, GraphQL, Now, Wordpress API
-
 
 ### Front End Developer – [Cloud Four](https://cloudfour.com/)
 
